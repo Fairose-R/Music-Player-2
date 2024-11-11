@@ -1,1 +1,1 @@
-Live Demo : https://fairose-r.github.io/BreadcrumbsMusic-Player-2/
+Live Demo : https://fairose-r.github.io/Music-Player-2/
